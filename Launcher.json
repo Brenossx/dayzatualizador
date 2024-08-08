@@ -2,7 +2,7 @@
 	"Version": "1.01",
 	"FileList":"https://45.178.248.110:40503/update/filelist.json",
 	"FileDelete":"https://45.178.248.110:40503/update/filedelete.json",
-	"DownloadUpdate": "https://45.178.248.110:40503/update/dayz/modsverify/",		
+	"DownloadUpdate": "https://45.178.248.110:40503/update/dayz/",		
 	"News": [
 		"https://45.178.248.110:40503/update/news/1.png",
 		"https://deadzoneofc.github.io/DeadZone/News/1.png",
