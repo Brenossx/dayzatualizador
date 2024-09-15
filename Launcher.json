@@ -1,7 +1,7 @@
 {   
 	"Version": "1.02",
 	"FileList":"http://45.178.248.110:4444/GeradorFile/filelist.json",
-	"FileDelete":"",
+	"FileDelete":"http://45.178.248.110:4444/GeradorFile/filedelete.json",
 	"DownloadUpdate": "http://45.178.248.110:4444/checkfiles",		
 	"News": [
 		"http://45.178.248.110:4444/update/news/1.png",
