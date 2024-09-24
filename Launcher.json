@@ -1,12 +1,12 @@
 {   
 	"Version": "1.01",
-	"FileList":"http://45.178.248.110:4444/GeradorFile/filelist.json",
-	"FileDelete":"http://45.178.248.110:4444/GeradorFile/filedelete.json",
-	"DownloadUpdate": "http://45.178.248.110:4444/checkfiles",		
+	"FileList":"http://45.178.248.219:4444/GeradorFile/filelist.json",
+	"FileDelete":"http://45.178.248.219:4444/GeradorFile/filedelete.json",
+	"DownloadUpdate": "http://45.178.248.219:4444/checkfiles",		
 	"News": [
-		"http://45.178.248.110:4444/update/news/1.png",
+		"http://45.178.248.219:4444/update/news/1.png",
 		"http://deadzoneofc.github.io/DeadZone/News/1.png",
 		"http://deadzoneofc.github.io/DeadZone/News/2.png",
-		"http://45.178.248.110:40503/update/news/Captura%20de%20tela%202024-08-07%20192455.png"
+		"http://45.178.248.219:40503/update/news/Captura%20de%20tela%202024-08-07%20192455.png"
 	]			
 }
