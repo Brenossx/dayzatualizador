@@ -1220,6 +1220,86 @@
     "MD5": "f0fbc09c5e99a68c624378243ff4e0ec"
   },
   {
+    "FileName": "mds\\@CF\\meta.cpp",
+    "MD5": "f0f370cbe6a81ee71c759b77a7efa1d6"
+  },
+  {
+    "FileName": "mds\\@CF\\mod.cpp",
+    "MD5": "e5a6669a5d348947c589927be8452ac4"
+  },
+  {
+    "FileName": "mds\\@CF\\addons\\gui.pbo",
+    "MD5": "a6717ec6a9ccc28b4cd1aa801a2c9c7b"
+  },
+  {
+    "FileName": "mds\\@CF\\addons\\gui.pbo.Jacob_Mango_V3.bisign",
+    "MD5": "0391c6552925d50d154aef9981d9d818"
+  },
+  {
+    "FileName": "mds\\@CF\\addons\\legacy.pbo",
+    "MD5": "387ef921e4cd6b17cdf10f65800fc51b"
+  },
+  {
+    "FileName": "mds\\@CF\\addons\\legacy.pbo.Jacob_Mango_V3.bisign",
+    "MD5": "ee14833cdf8f94a00c013c3db34d8a24"
+  },
+  {
+    "FileName": "mds\\@CF\\addons\\scripts.pbo",
+    "MD5": "71b1d2570f36ce06059334e401e39ad2"
+  },
+  {
+    "FileName": "mds\\@CF\\addons\\scripts.pbo.jacob_mango_v3.bisign",
+    "MD5": "b64edc6338cfacb28df6305d4cdf7b1e"
+  },
+  {
+    "FileName": "mds\\@CF\\keys\\Jacob_Mango_V3.bikey",
+    "MD5": "5d1b66407ee86a70fe9caa6a196c0e01"
+  },
+  {
+    "FileName": "mds\\@Community\\meta.cpp",
+    "MD5": "4a5f30063af06fe4c90d9c7d5d6e0456"
+  },
+  {
+    "FileName": "mds\\@Community\\mod.cpp",
+    "MD5": "33b868beb2974420b21be2043497704a"
+  },
+  {
+    "FileName": "mds\\@Community\\Addons\\gui.pbo",
+    "MD5": "b170c4cc32d6fcd9d0c96e54c6595858"
+  },
+  {
+    "FileName": "mds\\@Community\\Addons\\gui.pbo.jacob_mango_v3.bisign",
+    "MD5": "f6a949fb59a0f05f8c6bb8b365d670b6"
+  },
+  {
+    "FileName": "mds\\@Community\\Addons\\languagecore.pbo",
+    "MD5": "386135072fc94f099f479d5592ad8758"
+  },
+  {
+    "FileName": "mds\\@Community\\Addons\\languagecore.pbo.jacob_mango_v3.bisign",
+    "MD5": "9f5172cc41d35af251e54fb2636474af"
+  },
+  {
+    "FileName": "mds\\@Community\\Addons\\objects_debug.pbo",
+    "MD5": "a89f683ac904cae900ec84a204dbbc4e"
+  },
+  {
+    "FileName": "mds\\@Community\\Addons\\objects_debug.pbo.jacob_mango_v3.bisign",
+    "MD5": "4fdf5156980d1b5484c06be8a9f74cf8"
+  },
+  {
+    "FileName": "mds\\@Community\\Addons\\scripts.pbo",
+    "MD5": "7090a4532126537185c10e62c2ca5fce"
+  },
+  {
+    "FileName": "mds\\@Community\\Addons\\scripts.pbo.jacob_mango_v3.bisign",
+    "MD5": "44cf28f230eaf0b1d6e4ac5f60e66825"
+  },
+  {
+    "FileName": "mds\\@Community\\Keys\\Jacob_Mango_V3.bikey",
+    "MD5": "5d1b66407ee86a70fe9caa6a196c0e01"
+  },
+  {
     "FileName": "sakhal\\Addons\\data_sakhal.pbo",
     "MD5": "e59900c9ab3f67a6d8c7a35c5de395f3"
   },
