@@ -1,5 +1,5 @@
 {   
-	"Version": "1.03",
+	"Version": "1.04",
 	"FileList":"http://45.178.248.219:4444/GeradorFile/filelist.json",
 	"FileDelete":"http://45.178.248.219:4444/GeradorFile/filedelete.json",
 	"DownloadUpdate": "http://45.178.248.219:4444/checkfiles",		
